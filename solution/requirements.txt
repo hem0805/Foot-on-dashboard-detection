@@ -1,0 +1,7 @@
+# Core dependencies
+ultralytics>=8.2.0       # YOLOv8-Pose
+torch>=2.4.0             # deep learning runtime (required by ultralytics)
+torchvision>=0.19.0      # vision utilities (required by ultralytics)
+opencv-python>=4.9.0     # video I/O, image processing, undistortion
+numpy>=1.26.0
+tqdm>=4.66.0             # progress bars
